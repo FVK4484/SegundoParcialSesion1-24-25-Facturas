@@ -1,0 +1,128 @@
+Número,Fecha,Cliente,País del Cliente,Impuestos,Tipo de Cliente,Productos
+INV-2024-001,2025-03-26,Brett Schultz,Estados Unidos,6.8,VIP,'[Tostadora - 1373.72 - Hogar]; [Camisa - 1279.23 - Moda]; [Zapatos - 1231.18 - Moda]'
+INV-2024-002,2025-04-20,Terry Evans,India,10.0,REGULAR,'[Cafetera - 623.91 - Hogar]; [Libro de cocina - 1192.11 - Libros]; [Funda para tablet - 1120.05 - Accesorios]; [Coche de juguete - 1341.88 - Juguetes]; [Filtro de aceite - 1293.82 - Automotriz]'
+INV-2024-003,2024-11-23,Eugene Higgins,España,12.7,PREMIUM,[Teclado mecánico - 1093.45 - Accesorios]
+INV-2024-004,2025-04-09,Jerry Christensen,Italia,18.5,VIP,'[Muñeca - 799.29 - Juguetes]; [Balón de fútbol - 1898.28 - Deportes]; [Silla de oficina - 1327.22 - Muebles]; [Manguera de jardín - 105.9 - Jardinería]; [Coche de juguete - 1977.7 - Juguetes]; [Cortacésped - 141.88 - Jardinería]'
+INV-2024-005,2025-01-06,Michael Warner,Mexico,6.4,PREMIUM,[Silla de oficina - 499.57 - Muebles]; [Funda para tablet - 46.96 - Accesorios]; [Batería para coche - 1178.94 - Automotriz]; [Teléfono móvil - 1417.14 - Electrónica]; [Ordenador portátil - 139.46 - Electrónica]
+INV-2024-006,2025-05-02,Mary Grimes,Estados Unidos,12.1,VIP,[Cargador USB - 1617.0 - Accesorios]; [Filtro de aceite - 105.92 - Automotriz]
+INV-2024-007,2025-05-15,Elizabeth Harrell,Estados Unidos,5.1,VIP,[Microondas - 1763.43 - Hogar]; [Ordenador portátil - 1474.45 - Electrónica]
+INV-2024-008,2025-04-05,Michael Warner,Mexico,6.4,PREMIUM,[Muñeca - 1030.74 - Juguetes]
+INV-2024-009,2025-03-04,William Tran,Francia,9.9,PREMIUM,'[Mesa de comedor - 355.51 - Muebles]'
+INV-2024-010,2025-01-12,Kathleen Aguilar,Canada,5.5,PREMIUM,'[Microondas - 1532.83 - Hogar]; [Manual de programación - 1985.75 - Libros]; [Libro de aventuras - 1739.89 - Libros]; [Libro de aventuras - 165.1 - Libros]'
+INV-2024-011,2025-03-11,Pamela Thompson,Canada,11.4,VIP,'[Cortacésped - 1093.22 - Jardinería]; [Muñeca - 164.74 - Juguetes]; [Zapatos - 894.6 - Moda]; [Libro de cocina - 1381.08 - Libros]'
+INV-2024-012,2025-04-16,Sherry Shields,España,5.6,VIP,[Mesa de comedor - 1772.84 - Muebles]
+INV-2024-013,2025-01-27,Aaron Barber,Estados Unidos,10.0,PREMIUM,'[Poesía clásica - 618.82 - Libros]'
+INV-2024-014,2024-11-18,Mary Grimes,Estados Unidos,12.1,VIP,[Teléfono móvil - 1853.1 - Electrónica]; [Raqueta de tenis - 815.8 - Deportes]; [Escritorio - 1729.98 - Muebles]; [Ordenador portátil - 761.05 - Electrónica]; [Manual de programación - 1853.4 - Libros]
+INV-2024-015,2024-12-27,Julie Petersen,Australia,10.8,REGULAR,[Filtro de aceite - 1337.39 - Automotriz]; [Juego de limpiaparabrisas - 1863.85 - Automotriz]; [Teclado mecánico - 532.61 - Accesorios]; [Audífonos - 315.12 - Accesorios]; [Reloj de pulsera - 425.21 - Moda]; [Coche de juguete - 1376.56 - Juguetes]
+INV-2024-016,2025-05-14,Timothy Kane,Italia,10.3,VIP,'[Reloj de pulsera - 970.94 - Moda]; [Mancuernas - 1118.38 - Deportes]; [Mancuernas - 1543.49 - Deportes]; [Bicicleta estática - 637.5 - Deportes]; [Rompecabezas - 1867.73 - Juguetes]; [Zapatos - 248.14 - Moda]'
+INV-2024-017,2025-03-05,Nathan Stewart,India,15.1,VIP,'[Cámara digital - 1858.52 - Electrónica]; [Camisa - 364.93 - Moda]; [Zapatos - 705.29 - Moda]; [Microondas - 1134.81 - Hogar]; [Novela histórica - 288.04 - Libros]'
+INV-2024-018,2025-02-12,Robert Costa,Mexico,7.1,REGULAR,'[Silla de oficina - 256.83 - Muebles]; [Mancuernas - 727.49 - Deportes]; [Manguera de jardín - 1212.16 - Jardinería]; [Sofá - 747.17 - Muebles]; [Audífonos - 279.7 - Accesorios]'
+INV-2024-019,2025-01-27,Cynthia Rowe,Australia,18.4,PREMIUM,'[Coche de juguete - 584.45 - Juguetes]; [Camisa - 696.0 - Moda]; [Sofá - 1495.94 - Muebles]; [Raqueta de tenis - 1656.76 - Deportes]'
+INV-2024-020,2024-12-26,Willie Durham,España,19.4,REGULAR,'[Rompecabezas - 1443.65 - Juguetes]; [Raqueta de tenis - 999.04 - Deportes]'
+INV-2024-021,2025-01-11,Denise Davenport,Estados Unidos,9.2,REGULAR,'[Sofá - 1075.7 - Muebles]; [Cargador USB - 272.2 - Accesorios]; [Zapatos - 1528.89 - Moda]; [Muñeca - 804.16 - Juguetes]; [Fertilizante - 393.34 - Jardinería]'
+INV-2024-022,2025-02-11,Mary Grimes,Estados Unidos,12.1,VIP,[Chaqueta - 1394.7 - Moda]; [Cubiertas para asientos - 313.82 - Automotriz]; [Pantalones - 1937.58 - Moda]; [Fertilizante - 126.61 - Jardinería]
+INV-2024-023,2024-12-13,Christina Cruz,Italia,9.5,REGULAR,'[Batería para coche - 830.05 - Automotriz]; [Camisa - 1115.65 - Moda]'
+INV-2024-024,2024-12-10,Juan Reyes,Australia,6.1,PREMIUM,'[Estantería - 563.04 - Muebles]; [Fertilizante - 242.03 - Jardinería]; [Cargador USB - 749.53 - Accesorios]; [Rompecabezas - 1878.2 - Juguetes]; [Microondas - 1206.91 - Hogar]'
+INV-2024-025,2025-02-22,Mary Grimes,Estados Unidos,12.1,VIP,[Teléfono móvil - 1170.43 - Electrónica]; [Luces LED - 319.08 - Automotriz]; [Filtro de aceite - 1703.43 - Automotriz]
+INV-2024-026,2024-12-11,Melissa Lee,Estados Unidos,16.2,REGULAR,'[Libro de aventuras - 910.02 - Libros]; [Cafetera - 626.72 - Hogar]'
+INV-2024-027,2025-02-16,Ellen Alexander,Canada,5.7,VIP,'[Libro de cocina - 1685.88 - Libros]'
+INV-2024-028,2025-02-13,Elizabeth Harrell,Estados Unidos,5.1,VIP,[Libro de cocina - 537.28 - Libros]; [Cargador USB - 1744.97 - Accesorios]; [Escritorio - 403.15 - Muebles]
+INV-2024-029,2025-04-20,Sydney White,Italia,5.6,PREMIUM,'[Tijeras de podar - 552.74 - Jardinería]; [Teléfono móvil - 1344.01 - Electrónica]; [Manual de programación - 1028.61 - Libros]'
+INV-2024-030,2025-01-23,Nicole Garcia,España,15.6,VIP,'[Juego de limpiaparabrisas - 148.79 - Automotriz]; [Televisor - 42.39 - Electrónica]; [Funda para tablet - 1153.64 - Accesorios]; [Tijeras de podar - 1420.45 - Jardinería]; [Manual de programación - 234.77 - Libros]'
+INV-2024-031,2024-11-28,Kyle Beard,Estados Unidos,9.0,REGULAR,'[Poesía clásica - 231.73 - Libros]; [Cargador USB - 899.31 - Accesorios]'
+INV-2024-032,2025-03-14,Alicia Hubbard,Australia,8.8,PREMIUM,'[Mancuernas - 717.16 - Deportes]; [Tablet - 550.07 - Electrónica]; [Peluche - 1779.53 - Juguetes]; [Mesa de comedor - 681.38 - Muebles]; [Tostadora - 1385.68 - Hogar]; [Rompecabezas - 537.11 - Juguetes]'
+INV-2024-033,2025-04-03,Daniel Salinas,Mexico,13.1,REGULAR,'[Ratón inalámbrico - 267.95 - Accesorios]; [Coche de juguete - 1179.76 - Juguetes]'
+INV-2024-034,2024-12-18,Michael Berger,Alemania,12.2,REGULAR,'[Regadera - 834.61 - Jardinería]; [Cubiertas para asientos - 1515.91 - Automotriz]; [Raqueta de tenis - 1362.28 - Deportes]; [Manguera de jardín - 1053.39 - Jardinería]'
+INV-2024-035,2025-02-21,Sean Osborne,India,5.6,VIP,'[Cinta de correr - 1449.99 - Deportes]'
+INV-2024-036,2024-12-07,Joseph Knight,Australia,17.1,PREMIUM,'[Plancha - 833.77 - Hogar]; [Manguera de jardín - 1119.8 - Jardinería]; [Camisa - 794.92 - Moda]; [Ordenador portátil - 1158.73 - Electrónica]'
+INV-2024-037,2025-04-07,John Mcintyre,Francia,15.4,VIP,'[Audífonos - 1483.08 - Accesorios]; [Raqueta de tenis - 106.28 - Deportes]'
+INV-2024-038,2025-01-31,Krista Gibson,Francia,15.7,REGULAR,'[Cafetera - 1019.97 - Hogar]; [Teclado mecánico - 1585.17 - Accesorios]; [Bicicleta estática - 57.44 - Deportes]; [Luces LED - 740.98 - Automotriz]; [Batería para coche - 1225.84 - Automotriz]; [Ratón inalámbrico - 622.03 - Accesorios]'
+INV-2024-039,2025-04-26,Elizabeth Harrell,Estados Unidos,5.1,VIP,[Bloques de construcción - 1641.97 - Juguetes]; [Raqueta de tenis - 52.21 - Deportes]; [Bicicleta estática - 659.88 - Deportes]; [Funda para tablet - 705.54 - Accesorios]
+INV-2024-040,2025-04-24,Brittany Shepherd,Australia,9.7,REGULAR,'[Teléfono móvil - 740.63 - Electrónica]; [Camisa - 1291.11 - Moda]; [Audífonos - 1190.19 - Accesorios]; [Libro de aventuras - 1162.76 - Libros]'
+INV-2024-041,2025-02-17,April Booth,Mexico,12.5,PREMIUM,'[Audífonos - 310.27 - Accesorios]'
+INV-2024-042,2025-04-13,Dawn Summers,Canada,19.4,PREMIUM,'[Cortacésped - 1980.51 - Jardinería]; [Mancuernas - 1369.66 - Deportes]; [Ratón inalámbrico - 191.53 - Accesorios]; [Libro de aventuras - 1107.64 - Libros]'
+INV-2024-043,2025-01-05,Charles Pitts,Mexico,20.0,REGULAR,'[Escritorio - 1873.53 - Muebles]; [Camisa - 23.49 - Moda]; [Fertilizante - 219.06 - Jardinería]; [Bloques de construcción - 911.43 - Juguetes]'
+INV-2024-044,2025-05-16,Crystal Pham,Alemania,18.7,PREMIUM,'[Bloques de construcción - 764.42 - Juguetes]; [Juego de limpiaparabrisas - 620.3 - Automotriz]; [Rompecabezas - 1766.21 - Juguetes]; [Silla de oficina - 1606.62 - Muebles]; [Sofá - 1829.09 - Muebles]'
+INV-2024-045,2024-12-04,Rachel Perez,Reino Unido,12.9,PREMIUM,'[Cafetera - 748.84 - Hogar]; [Chaqueta - 820.49 - Moda]; [Rompecabezas - 109.47 - Juguetes]; [Muñeca - 662.73 - Juguetes]; [Cubiertas para asientos - 571.87 - Automotriz]'
+INV-2024-046,2024-11-28,Casey Anderson,Estados Unidos,14.6,VIP,[Poesía clásica - 665.64 - Libros]; [Teléfono móvil - 1754.69 - Electrónica]; [Pantalones - 1163.28 - Moda]; [Camisa - 221.26 - Moda]; [Manual de programación - 1458.45 - Libros]
+INV-2024-047,2025-05-05,Casey Anderson,Estados Unidos,14.6,VIP,[Poesía clásica - 1968.55 - Libros]; [Cargador USB - 1799.51 - Accesorios]; [Mancuernas - 93.55 - Deportes]
+INV-2024-048,2025-01-14,Brian Lee,Estados Unidos,6.2,VIP,'[Libro de aventuras - 1216.12 - Libros]; [Manual de programación - 435.06 - Libros]; [Filtro de aceite - 693.62 - Automotriz]; [Funda para tablet - 1358.04 - Accesorios]'
+INV-2024-049,2025-01-30,Casey Anderson,Estados Unidos,14.6,VIP,[Cámara digital - 1851.52 - Electrónica]; [Batería para coche - 731.62 - Automotriz]; [Funda para tablet - 1248.2 - Accesorios]; [Funda para tablet - 1016.71 - Accesorios]
+INV-2024-050,2024-12-07,Gary Santiago,Italia,9.7,PREMIUM,[Juego de limpiaparabrisas - 1942.3 - Automotriz]; [Teléfono móvil - 1365.01 - Electrónica]; [Juego de limpiaparabrisas - 1538.35 - Automotriz]; [Muñeca - 590.53 - Juguetes]
+INV-2024-051,2025-01-15,Michael Warner,Mexico,6.4,PREMIUM,[Escritorio - 1080.77 - Muebles]; [Fertilizante - 947.98 - Jardinería]; [Mesa de comedor - 384.87 - Muebles]
+INV-2024-052,2024-12-12,Lisa Byrd,Italia,11.2,PREMIUM,[Novela histórica - 1883.48 - Libros]; [Cortacésped - 1159.94 - Jardinería]
+INV-2024-053,2025-02-22,Michael Warner,Mexico,6.4,PREMIUM,[Manual de programación - 850.04 - Libros]
+INV-2024-054,2025-01-27,Sarah Morgan,Australia,7.2,PREMIUM,'[Cafetera - 1863.08 - Hogar]; [Coche de juguete - 788.94 - Juguetes]; [Regadera - 1189.48 - Jardinería]; [Luces LED - 1067.02 - Automotriz]; [Regadera - 952.41 - Jardinería]'
+INV-2024-055,2025-03-13,Samuel Rivas,Francia,15.4,REGULAR,'[Mesa de comedor - 1901.36 - Muebles]; [Muñeca - 1961.95 - Juguetes]'
+INV-2024-056,2025-04-28,Dawn Hensley,Canada,12.6,VIP,'[Coche de juguete - 476.36 - Juguetes]; [Cafetera - 398.56 - Hogar]; [Cortacésped - 1521.63 - Jardinería]'
+INV-2024-057,2025-02-18,Hailey Barajas,Francia,19.3,PREMIUM,'[Silla de oficina - 186.99 - Muebles]; [Ratón inalámbrico - 866.59 - Accesorios]; [Coche de juguete - 1114.96 - Juguetes]; [Fertilizante - 1125.56 - Jardinería]; [Cargador USB - 710.43 - Accesorios]; [Novela histórica - 1936.96 - Libros]'
+INV-2024-058,2024-12-28,Olivia Harris,India,7.6,REGULAR,'[Regadera - 1685.85 - Jardinería]; [Manguera de jardín - 1651.35 - Jardinería]; [Teléfono móvil - 95.7 - Electrónica]; [Regadera - 1304.0 - Jardinería]; [Tijeras de podar - 1238.13 - Jardinería]'
+INV-2024-059,2025-02-19,Jessica Fox,Reino Unido,14.8,PREMIUM,'[Bloques de construcción - 1293.57 - Juguetes]; [Audífonos - 468.28 - Accesorios]; [Ordenador portátil - 838.68 - Electrónica]'
+INV-2024-060,2025-02-15,Elizabeth Perkins,Reino Unido,11.2,PREMIUM,'[Peluche - 628.48 - Juguetes]'
+INV-2024-061,2025-01-09,Travis Miller,Italia,13.9,VIP,'[Batería para coche - 1891.1 - Automotriz]; [Cámara digital - 606.75 - Electrónica]; [Teléfono móvil - 1997.18 - Electrónica]; [Libro de aventuras - 1373.76 - Libros]'
+INV-2024-062,2025-05-07,Amanda Jones,Mexico,9.9,PREMIUM,'[Tablet - 770.23 - Electrónica]; [Sofá - 1908.3 - Muebles]'
+INV-2024-063,2025-01-24,Maria Kerr,Reino Unido,14.2,PREMIUM,'[Tablet - 435.23 - Electrónica]'
+INV-2024-064,2025-05-15,Eugene Higgins,España,12.7,PREMIUM,[Fertilizante - 300.45 - Jardinería]; [Aspiradora - 619.98 - Hogar]; [Tablet - 424.1 - Electrónica]
+INV-2024-065,2025-05-10,Christopher Parker,Mexico,19.1,VIP,'[Cubiertas para asientos - 226.82 - Automotriz]; [Pantalones - 605.8 - Moda]; [Ordenador portátil - 842.55 - Electrónica]; [Tijeras de podar - 130.3 - Jardinería]; [Estantería - 1074.43 - Muebles]'
+INV-2024-066,2025-05-01,Michael Warner,Mexico,6.4,PREMIUM,[Teléfono móvil - 125.92 - Electrónica]; [Muñeca - 501.07 - Juguetes]; [Cinta de correr - 899.98 - Deportes]; [Libro de cocina - 560.7 - Libros]
+INV-2024-067,2024-12-05,James Howard,India,18.7,VIP,'[Poesía clásica - 993.76 - Libros]; [Peluche - 1572.68 - Juguetes]; [Peluche - 819.48 - Juguetes]; [Chaqueta - 371.84 - Moda]; [Cubiertas para asientos - 485.73 - Automotriz]; [Mancuernas - 1715.79 - Deportes]'
+INV-2024-068,2025-04-21,Jamie Johnson,Australia,13.8,REGULAR,'[Coche de juguete - 1578.34 - Juguetes]; [Manguera de jardín - 558.16 - Jardinería]'
+INV-2024-069,2025-04-28,Dwayne Gilmore,Estados Unidos,18.3,PREMIUM,'[Zapatos - 968.47 - Moda]; [Manual de programación - 909.82 - Libros]; [Ordenador portátil - 882.01 - Electrónica]; [Mesa de comedor - 412.03 - Muebles]; [Cortacésped - 628.6 - Jardinería]'
+INV-2024-070,2024-12-30,Maria Moore,Australia,12.5,PREMIUM,'[Silla de oficina - 184.65 - Muebles]; [Poesía clásica - 917.18 - Libros]; [Raqueta de tenis - 1168.77 - Deportes]'
+INV-2024-071,2025-04-02,Gary Santiago,Italia,9.7,PREMIUM,[Silla de oficina - 1907.86 - Muebles]; [Reloj de pulsera - 1525.11 - Moda]
+INV-2024-072,2025-01-18,Emily Smith,Reino Unido,7.1,REGULAR,'[Chaqueta - 1729.01 - Moda]'
+INV-2024-073,2024-12-28,Andrew Shaw MD,Reino Unido,15.2,REGULAR,'[Cámara digital - 1955.93 - Electrónica]; [Tostadora - 1307.52 - Hogar]'
+INV-2024-074,2025-03-15,Cody Cox,Mexico,9.8,REGULAR,'[Mancuernas - 1895.23 - Deportes]; [Juego de limpiaparabrisas - 1692.64 - Automotriz]; [Pantalones - 1271.94 - Moda]; [Juego de limpiaparabrisas - 254.71 - Automotriz]; [Reloj de pulsera - 1069.29 - Moda]; [Batería para coche - 1185.66 - Automotriz]'
+INV-2024-075,2025-02-22,David Grant,Estados Unidos,18.6,PREMIUM,'[Mancuernas - 1211.99 - Deportes]; [Batería para coche - 1915.66 - Automotriz]; [Silla de oficina - 1622.88 - Muebles]; [Muñeca - 1011.58 - Juguetes]; [Aspiradora - 499.25 - Hogar]'
+INV-2024-076,2025-01-25,David Baker,Italia,10.8,REGULAR,'[Coche de juguete - 61.23 - Juguetes]'
+INV-2024-077,2025-04-29,Elizabeth Spence DDS,Mexico,18.7,PREMIUM,'[Libro de aventuras - 1116.79 - Libros]; [Tostadora - 489.5 - Hogar]; [Mancuernas - 1295.18 - Deportes]; [Sofá - 189.47 - Muebles]; [Balón de fútbol - 540.58 - Deportes]'
+INV-2024-078,2025-05-12,Marie Christian,Reino Unido,8.9,VIP,'[Tablet - 1582.58 - Electrónica]; [Cortacésped - 355.11 - Jardinería]'
+INV-2024-079,2025-04-08,David Scott,Australia,14.8,REGULAR,'[Teclado mecánico - 1985.73 - Accesorios]; [Poesía clásica - 259.06 - Libros]; [Balón de fútbol - 1513.58 - Deportes]'
+INV-2024-080,2025-01-12,Haley Arnold,Italia,7.3,PREMIUM,'[Bicicleta estática - 1006.13 - Deportes]; [Tijeras de podar - 1746.27 - Jardinería]; [Ordenador portátil - 1039.77 - Electrónica]; [Juego de limpiaparabrisas - 1996.26 - Automotriz]; [Estantería - 756.77 - Muebles]; [Tostadora - 1824.69 - Hogar]'
+INV-2024-081,2025-05-11,Debra Morton,Francia,11.1,VIP,'[Teléfono móvil - 612.21 - Electrónica]; [Silla de oficina - 198.9 - Muebles]'
+INV-2024-082,2025-02-08,Sherry Shields,España,5.6,VIP,[Bicicleta estática - 991.28 - Deportes]; [Raqueta de tenis - 1313.84 - Deportes]; [Teléfono móvil - 1557.95 - Electrónica]; [Raqueta de tenis - 1609.2 - Deportes]; [Cubiertas para asientos - 105.19 - Automotriz]
+INV-2024-083,2024-12-01,Donna Perez,Francia,15.8,VIP,'[Zapatos - 1387.07 - Moda]'
+INV-2024-084,2025-01-14,Terri Mason,Mexico,15.0,VIP,'[Muñeca - 1907.04 - Juguetes]; [Luces LED - 1573.89 - Automotriz]; [Luces LED - 45.57 - Automotriz]; [Silla de oficina - 1273.16 - Muebles]; [Bloques de construcción - 1495.9 - Juguetes]'
+INV-2024-085,2024-11-25,Michael Harrison,España,17.3,REGULAR,'[Cafetera - 109.1 - Hogar]; [Sofá - 1111.31 - Muebles]; [Audífonos - 1703.08 - Accesorios]; [Camisa - 1527.42 - Moda]; [Chaqueta - 1811.09 - Moda]'
+INV-2024-086,2025-02-05,Lisa Byrd,Italia,11.2,PREMIUM,[Manguera de jardín - 841.35 - Jardinería]
+INV-2024-087,2025-02-27,Julie Petersen,Australia,10.8,REGULAR,[Cubiertas para asientos - 505.99 - Automotriz]; [Teléfono móvil - 1270.4 - Electrónica]; [Camisa - 12.07 - Moda]
+INV-2024-088,2025-01-24,Anthony Howard,Australia,10.4,VIP,'[Ratón inalámbrico - 1658.4 - Accesorios]; [Batería para coche - 1147.54 - Automotriz]; [Microondas - 659.59 - Hogar]; [Cubiertas para asientos - 236.9 - Automotriz]; [Cinta de correr - 980.21 - Deportes]'
+INV-2024-089,2024-12-03,Gary Santiago,Italia,9.7,PREMIUM,[Funda para tablet - 1684.13 - Accesorios]; [Luces LED - 401.83 - Automotriz]; [Coche de juguete - 1081.06 - Juguetes]; [Filtro de aceite - 1199.89 - Automotriz]; [Silla de oficina - 228.18 - Muebles]
+INV-2024-090,2025-01-10,Michael Roberts,Francia,11.7,VIP,'[Chaqueta - 404.36 - Moda]; [Aspiradora - 906.83 - Hogar]; [Silla de oficina - 1621.97 - Muebles]; [Bloques de construcción - 1420.53 - Juguetes]; [Luces LED - 584.27 - Automotriz]'
+INV-2024-091,2025-04-11,Natasha Wall,Australia,12.2,REGULAR,'[Camisa - 427.56 - Moda]; [Balón de fútbol - 1495.02 - Deportes]; [Escritorio - 1392.77 - Muebles]'
+INV-2024-092,2025-02-05,Eugene Higgins,España,12.7,PREMIUM,[Funda para tablet - 1561.33 - Accesorios]; [Poesía clásica - 1500.21 - Libros]
+INV-2024-093,2025-01-10,Brian Barton,Reino Unido,11.2,VIP,'[Manguera de jardín - 255.03 - Jardinería]; [Muñeca - 902.7 - Juguetes]; [Juego de limpiaparabrisas - 261.03 - Automotriz]; [Luces LED - 368.02 - Automotriz]'
+INV-2024-094,2025-05-03,Lisa Byrd,Italia,11.2,PREMIUM,[Fertilizante - 636.16 - Jardinería]; [Pantalones - 1341.1 - Moda]; [Coche de juguete - 534.9 - Juguetes]; [Cafetera - 917.16 - Hogar]; [Ratón inalámbrico - 919.28 - Accesorios]
+INV-2024-095,2025-03-24,Victor Vaughn,Estados Unidos,16.1,REGULAR,'[Escritorio - 1081.82 - Muebles]; [Ordenador portátil - 1010.27 - Electrónica]; [Pantalones - 1632.49 - Moda]; [Regadera - 1157.06 - Jardinería]'
+INV-2024-096,2025-02-26,Jennifer Jones,Canada,19.3,REGULAR,'[Mesa de comedor - 1510.12 - Muebles]; [Tijeras de podar - 1363.86 - Jardinería]; [Fertilizante - 649.8 - Jardinería]; [Coche de juguete - 882.33 - Juguetes]; [Mesa de comedor - 1264.61 - Muebles]; [Reloj de pulsera - 117.06 - Moda]'
+INV-2024-097,2025-04-30,Bernard Webster,Canada,18.8,VIP,'[Cinta de correr - 953.62 - Deportes]; [Teléfono móvil - 1370.44 - Electrónica]'
+INV-2024-098,2025-03-14,Kyle Preston,Italia,10.2,REGULAR,'[Audífonos - 1471.7 - Accesorios]; [Coche de juguete - 93.45 - Juguetes]; [Juego de limpiaparabrisas - 1627.95 - Automotriz]; [Tostadora - 1961.73 - Hogar]; [Escritorio - 1623.94 - Muebles]; [Cargador USB - 78.78 - Accesorios]'
+INV-2024-099,2024-12-23,Regina Gonzalez,Canada,14.7,VIP,'[Aspiradora - 577.32 - Hogar]; [Escritorio - 1518.89 - Muebles]'
+INV-2024-100,2025-01-23,Bob Pitts,Estados Unidos,10.2,PREMIUM,'[Filtro de aceite - 1869.49 - Automotriz]'
+INV-2024-101,2024-12-22,Julie Roberts,Francia,15.1,PREMIUM,'[Poesía clásica - 761.66 - Libros]; [Raqueta de tenis - 923.95 - Deportes]; [Cafetera - 381.02 - Hogar]; [Ratón inalámbrico - 1619.91 - Accesorios]; [Poesía clásica - 1533.28 - Libros]'
+INV-2024-102,2025-01-19,Kevin Wolf,Italia,13.9,VIP,'[Microondas - 1510.1 - Hogar]'
+INV-2024-103,2025-04-09,Gary Santiago,Italia,9.7,PREMIUM,[Pantalones - 120.56 - Moda]; [Manguera de jardín - 175.88 - Jardinería]; [Silla de oficina - 1956.08 - Muebles]
+INV-2024-104,2025-04-03,Lisa Byrd,Italia,11.2,PREMIUM,[Ratón inalámbrico - 1077.58 - Accesorios]; [Juego de limpiaparabrisas - 269.25 - Automotriz]; [Muñeca - 1759.14 - Juguetes]; [Bloques de construcción - 319.7 - Juguetes]; [Juego de limpiaparabrisas - 1225.3 - Automotriz]
+INV-2024-105,2025-01-23,Elizabeth Oliver DDS,España,10.4,VIP,'[Pantalones - 1902.58 - Moda]; [Peluche - 388.05 - Juguetes]; [Microondas - 158.94 - Hogar]'
+INV-2024-106,2025-04-15,Jeremy Reed,Estados Unidos,8.1,REGULAR,'[Manguera de jardín - 895.65 - Jardinería]'
+INV-2024-107,2025-03-06,Alan Phillips,Canada,9.1,REGULAR,'[Fertilizante - 1425.74 - Jardinería]; [Poesía clásica - 1063.46 - Libros]; [Estantería - 1212.83 - Muebles]; [Ratón inalámbrico - 1706.32 - Accesorios]; [Batería para coche - 862.99 - Automotriz]; [Bicicleta estática - 681.17 - Deportes]'
+INV-2024-108,2025-04-15,Breanna Davis,Italia,16.5,PREMIUM,'[Mesa de comedor - 340.63 - Muebles]; [Coche de juguete - 284.22 - Juguetes]; [Cubiertas para asientos - 372.18 - Automotriz]; [Filtro de aceite - 1050.27 - Automotriz]'
+INV-2024-109,2025-02-27,Peter Vaughn DDS,Reino Unido,18.6,VIP,'[Funda para tablet - 1218.55 - Accesorios]'
+INV-2024-110,2025-02-17,Allison Perez,Alemania,16.9,REGULAR,[Manual de programación - 807.79 - Libros]; [Reloj de pulsera - 258.94 - Moda]; [Libro de aventuras - 1356.25 - Libros]; [Plancha - 1140.36 - Hogar]; [Poesía clásica - 1668.28 - Libros]; [Zapatos - 424.31 - Moda]
+INV-2024-111,2025-01-12,Jessica Harrison,Australia,8.6,VIP,'[Chaqueta - 8.12 - Moda]; [Coche de juguete - 1143.47 - Juguetes]'
+INV-2024-112,2024-12-22,Sherry Shields,España,5.6,VIP,[Cargador USB - 271.01 - Accesorios]; [Estantería - 1975.85 - Muebles]
+INV-2024-113,2025-03-27,Holly Shaw,Canada,7.2,VIP,'[Fertilizante - 508.57 - Jardinería]; [Bloques de construcción - 1590.9 - Juguetes]'
+INV-2024-114,2025-03-23,Eric Erickson,India,12.9,PREMIUM,'[Ordenador portátil - 793.55 - Electrónica]; [Manguera de jardín - 20.34 - Jardinería]; [Pantalones - 1535.86 - Moda]'
+INV-2024-115,2024-12-10,William Lynch,Italia,19.8,VIP,'[Libro de cocina - 1522.53 - Libros]; [Luces LED - 216.84 - Automotriz]; [Bicicleta estática - 249.43 - Deportes]'
+INV-2024-116,2024-11-29,Carlos Browning,Alemania,15.6,REGULAR,'[Cinta de correr - 914.74 - Deportes]'
+INV-2024-117,2024-12-15,Julie Alexander,Estados Unidos,7.6,PREMIUM,'[Sofá - 180.82 - Muebles]; [Teclado mecánico - 874.17 - Accesorios]; [Poesía clásica - 161.9 - Libros]; [Zapatos - 447.04 - Moda]; [Aspiradora - 1023.41 - Hogar]'
+INV-2024-118,2024-12-26,Michael Nelson,India,10.3,PREMIUM,'[Batería para coche - 313.69 - Automotriz]; [Escritorio - 1695.31 - Muebles]; [Rompecabezas - 738.28 - Juguetes]; [Reloj de pulsera - 456.19 - Moda]; [Poesía clásica - 1949.22 - Libros]'
+INV-2024-119,2025-04-26,Allison Perez,Alemania,16.9,REGULAR,[Regadera - 932.65 - Jardinería]; [Escritorio - 1024.79 - Muebles]; [Aspiradora - 571.15 - Hogar]; [Regadera - 191.31 - Jardinería]; [Mancuernas - 453.16 - Deportes]
+INV-2024-120,2024-12-27,Richard Baker,Australia,12.4,VIP,'[Cubiertas para asientos - 549.31 - Automotriz]; [Funda para tablet - 329.18 - Accesorios]'
+INV-2024-121,2025-05-10,Julie Petersen,Australia,10.8,REGULAR,[Pantalones - 1483.76 - Moda]; [Cubiertas para asientos - 1124.01 - Automotriz]
+INV-2024-122,2025-03-05,Christopher Jones,Reino Unido,13.0,REGULAR,'[Escritorio - 738.84 - Muebles]; [Tijeras de podar - 926.05 - Jardinería]; [Chaqueta - 1008.3 - Moda]'
+INV-2024-123,2025-04-18,Gary Santiago,Italia,9.7,PREMIUM,[Microondas - 1321.2 - Hogar]; [Batería para coche - 533.79 - Automotriz]; [Tijeras de podar - 1928.9 - Jardinería]; [Batería para coche - 1427.33 - Automotriz]; [Manual de programación - 879.01 - Libros]
+INV-2024-124,2024-12-03,Matthew Hoover,Australia,14.6,REGULAR,'[Cargador USB - 663.94 - Accesorios]'
+INV-2024-125,2025-02-23,Allison Perez,Alemania,16.9,REGULAR,[Aspiradora - 97.2 - Hogar]; [Estantería - 1700.23 - Muebles]
+INV-2024-126,2025-02-22,Christine Clark,Canada,16.6,VIP,'[Filtro de aceite - 1325.55 - Automotriz]; [Cortacésped - 1196.51 - Jardinería]; [Microondas - 365.79 - Hogar]; [Cortacésped - 1443.76 - Jardinería]; [Televisor - 731.78 - Electrónica]; [Bicicleta estática - 1223.14 - Deportes]'
+INV-2024-127,2025-04-18,Mary Grimes,Estados Unidos,12.1,VIP,[Manguera de jardín - 1352.05 - Jardinería]
