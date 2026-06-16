@@ -6,6 +6,7 @@ import java.util.Objects;
 import java.util.stream.Stream;
 
 public class Facturas {
+	
 	private List<Factura> facturas;
 
 	public Facturas(Stream<Factura> facturas) {
